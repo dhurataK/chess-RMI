@@ -1,2 +1,2 @@
 # chess-RMI
-A chess game in distributed systems using Java-RMI. 
+A chess game application for Distributed Systems. It was made using Java-RMI. 
